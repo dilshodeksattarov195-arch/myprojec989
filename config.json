@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfpdate",
+        "uuid": 9894945,
+        "checksum": "fetx4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
